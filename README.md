@@ -1,7 +1,7 @@
 # Ringzer0-Web-CTF-Solve
 Write-up OF Web Challenges For Ringzer0team
 
-## JavaScript : Client side validation is so secure 
+## JavaScript : Client side validation is so secure ?
 
 ### First : we will see source code
 
