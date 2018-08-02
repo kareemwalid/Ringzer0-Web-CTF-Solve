@@ -40,7 +40,7 @@ so it's Sqli we will try some payloads to understand the sql code
 
 after lot of payloads u will u the best payload to bypass it is :
 
-**Username** : **Admin**
+**Username** : **Admin** or This **' or ''='**
 
 **Password** : **' or ''='**
 
