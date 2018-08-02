@@ -33,3 +33,14 @@ so we will use this site to know what type of this hash [hash-identification](ht
 you can use hash-cat or any website to decrypt sha-1 
 
 So the Password is : **adminz**
+
+## SQL-INJECTION : Bypass Me If You Can
+
+so it's Sqli we will try some payloads to understand the sql code 
+
+after lot of payloads u will u the best payload to bypass it is :
+
+**Username** : **Admin**
+
+**Password** : **' or ''='**
+
