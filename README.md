@@ -15,3 +15,21 @@ so this is **Unicode** and this function decode it auto when u type the password
 ### Second : Decode This Unicode char.
 The Best Site For This stuff is (http://jdstiles.com/java/cct.html)
 So After Decode it by this site the password will apper
+
+## JavaScript : Is hashing more secure?
+
+### First : We Will Look At Source Code
+
+We Will Find This Hash 
+
+> b89356ff6151527e89c4f3e3d30c8e6586c63962
+
+so we will use this site to know what type of this hash [hash-identification](https://www.onlinehashcrack.com/hash-identification.php#results)
+
+**The hash is Sha-1**
+
+### Second : We Will Decrypt it 
+
+you can use hash-cat or any website to decrypt sha-1 
+
+So the Password is : **adminz**
